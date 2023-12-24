@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/all-what-you-need-micro-services-master/billing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all-what-you-need-micro-services-master/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all-what-you-need-micro-services-master/consul-config-service-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all-what-you-need-micro-services-master/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all-what-you-need-micro-services-master/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all-what-you-need-micro-services-master/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all-what-you-need-micro-services-master/order-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

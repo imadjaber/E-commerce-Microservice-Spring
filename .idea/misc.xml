@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/all-what-you-need-micro-services-master/billing/pom.xml" />
+        <option value="$PROJECT_DIR$/all-what-you-need-micro-services-master/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/all-what-you-need-micro-services-master/consul-config-service-test/pom.xml" />
+        <option value="$PROJECT_DIR$/all-what-you-need-micro-services-master/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/all-what-you-need-micro-services-master/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/all-what-you-need-micro-services-master/inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/all-what-you-need-micro-services-master/order-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
